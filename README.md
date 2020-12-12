@@ -1,7 +1,7 @@
 # TravellingMonitoringSystem
 
 ## Table of contents
-* [Registratio](#registration)
+* [Registration](#registration)
 * [Travel-History](#travel-history)
 * [Covid-Results](#covid-results)
 * [Hospital-Details](#hospital-details)
